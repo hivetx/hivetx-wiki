@@ -1,0 +1,24 @@
+[News](https://www.reddit.com/r/cybersecurity/wiki/news)
+
+- **Krebs On Security** In depth security news and investigation [https://krebsonsecurity.com/](https://krebsonsecurity.com/)
+- **Dark Reading** Cyber security's comprehensive news site is now an online community for security professionals. [https://www.darkreading.com/](https://www.darkreading.com/)
+- **The Hacker News** - The Hacker News (THN) is a leading, trusted, widely-acknowledged dedicated cybersecurity news platform, attracting over 8 million monthly readers including IT professionals, researchers, hackers, technologists, and enthusiasts. [https://thehackernews.com](https://thehackernews.com/)
+- **SecuriTeam** - A free and independent source of vulnerability information. [https://securiteam.com/](https://securiteam.com/)
+- **SANS NewsBites** - "A semiweekly high-level executive summary of the most important news articles that have been published on computer security during the last week. Each news item is very briefly summarized and includes a reference on the web for detailed information, if possible." Published for free on Tuesdays and Fridays. [https://www.sans.org/newsletters/newsbites](https://www.sans.org/newsletters/newsbites)
+
+---
+
+# Professional Networking / (Virtual) Meetups (Discord/Slack Groups)
+
+[Professional Networking](https://www.reddit.com/r/cybersecurity/wiki/professional_networking)
+
+### Discord and Slack (Networking and Communication Opportunities)
+
+_I'm (Gerald Auger) personally a member of the following Discord/Slack groups and have validated their quality and integrity. Message me if you want in those channels Discord: Gerald.Auger | Slack Gerald_Auger_ * **Metasploit Official Public** Slack [https://metasploit.com/slack](https://metasploit.com/slack) * **BlackHills Information Security Discord** [https://discord.gg/FWykjNy](https://discord.gg/FWykjNy) * **The Cyber Mentor** Discord [https://discord.com/invite/REfpPJB](https://discord.com/invite/REfpPJB) * **DERPCON** Discord - [https://discord.gg/invite/859Zvrm](https://discord.gg/invite/859Zvrm) * **InfoSecJobs** Discord [https://invite.infosecjobs.xyz/](https://invite.infosecjobs.xyz/) * **GRIMM Con - Public** Discord [https://discord.gg/bDdgyaV](https://discord.gg/bDdgyaV)
+
+_The follow channels I'm not a member of and cuarted but have not validated their quality and integrity personally. If you are a member and can message me about these groups I will move them into a validated category_ * **OWASP** (Slack) The Open Web Application Security Project (OWASP) is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security. [https://owasp.slack.com/](https://owasp.slack.com/) * **DFIR Community** Security folks interested in Digital Forensics & Incident Response. [https://rishi28.typeform.com/to/sTbTI8](https://rishi28.typeform.com/to/sTbTI8) * **Binary Ninja Slack** This is a channel dedicated to reverse engineering. Reverse engineering also called back engineering is the processes of extracting knowledge or design information from anything man-made and reproducing it or reproducing anything based on the extracted information the process often involves disassembling something a mechanical device electronic component computer program or biological chemical or organic matter and analysing its components and workings in detail. [https://slackin-sbhuzyheck.now.sh/](https://slackin-sbhuzyheck.now.sh/) * **Security HQ Slack** SecurityHQ is a channel most welcoming for all the security professionals and every newbie who wanted to build a career on Information Security or Cyber Security is most welcome to this channel. [https://securityhq.herokuapp.com/](https://securityhq.herokuapp.com/) * **CentralSec Slack** This is a community of people who are into everything in information security. [https://launchpass.com/centralsec](https://launchpass.com/centralsec) * **Penetration Testers Slack** This is a group of ethical hackers and you’re most welcome to this channel if you wanted to start pentesting and find the vulnerabilities and exploits on any website or app and get more help from the fellow members of the channel. [https://pentestpractice.slack.com/](https://pentestpractice.slack.com/)
+
+### (Virtual) Meetups
+
+- **Cybersecurity Mentoring Hub** Global session conducted over webex with a discussion/presentation on cybersecurity topic from within the community. Regular shoutouts on LinkedIn. [https://cybersecmentorship.org/](https://cybersecmentorship.org/)
+- **MeetCyber** Regular sessions conducted over crowdcast, can be a training or a workshop, excellent networking and learning opportunities. [https://meetcyber.net/](https://meetcyber.net/)

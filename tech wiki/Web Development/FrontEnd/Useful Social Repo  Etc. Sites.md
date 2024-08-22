@@ -1,0 +1,10 @@
+
+- [Bitbucket](http://bitbucket.org/)
+- [Coderbits](http://coderbits.com/)
+- [Dribbble](http://dribbble.com/)
+- [GitHub](http://github.com/)
+- [Kippt](http://kippt.com/)
+- [npm](http://npmjs.org/)
+- [Pocket](https://getpocket.com/)
+- [StackOverflow](http://stackoverflow.com/)
+- [Twitter](http://twitter.com/)
