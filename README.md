@@ -1,5 +1,4 @@
-Here’s a draft README for the HiveTx Wiki with some engaging language and emojis to make it more inviting! Feel free to customize it as needed:  
-
+ 
 ---
 
 # 🐝 HiveTx Wiki 📚  
